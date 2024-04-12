@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&center=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;Im+moosy!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Passionate programmer from Croatia</h3>
 
 <br/>
 
