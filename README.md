@@ -34,6 +34,3 @@
   
   <br/><br/><br/>
 </div>
-<a href="https://steamcommunity.com/id/trifunekakotoradis/" rel="nofollow">
-<img src="./Trysha-rbrn (Trifun)_files/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537465616d2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d7768697465" alt="steam" data-canonical-src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&amp;logo=steam&amp;logoColor=white" style="max-width: 100%;">
-</a>
