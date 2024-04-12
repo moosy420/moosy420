@@ -25,10 +25,9 @@
 
 <br/>
 <hr/>
-
 <div align="center">
- <h2> My Social </h2>
- <img src=
+  <h2> My Social </h2>
+    <img src="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537465616d2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d7768697465" /><br>
 <div align="center">
   <h2> My Contributions </h2>
   <br>
