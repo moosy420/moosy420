@@ -27,7 +27,7 @@
 <hr/>
 <div align="center">
   <h2> My Social </h2>
-   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dinstagram%2Bicon%2Bwhite&psig=AOvVaw1zoyFhYnsh1cCw7xxQcZgg&ust=1713085197057000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND88ebpvoUDFQAAAAAdAAAAABAE"13.fp.12
+   <img src="https://readme-typing-svg.herokuapp.com?font=&size=15&pause=1000&color=F7F6F6&random=false&width=435&lines=IG%3A13.fp.12" />
 <div align="center">
   <h2> My Contributions </h2> 
   <br>
