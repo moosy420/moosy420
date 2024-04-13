@@ -27,9 +27,9 @@
 <hr/>
 <div align="center">
   <h2> My Social </h2>
-   <img src="https://imgur.com/T4au9mw"13.fp.12
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dinstagram%2Bicon%2Bwhite&psig=AOvVaw1zoyFhYnsh1cCw7xxQcZgg&ust=1713085197057000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND88ebpvoUDFQAAAAAdAAAAABAE"13.fp.12
 <div align="center">
-  <h2> My Contributions </h2>
+  <h2> My Contributions </h2> 
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
