@@ -30,6 +30,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=&size=15&pause=1000&color=F7F6F6&center=true&random=false&width=435&lines=IG%3A13.fp.12" />
     <img src="https://readme-typing-svg.herokuapp.com?font=&size=15&pause=1000&color=F7F6F6&center=true&vCenter=true&random=false&width=435&lines=FB%3ASilva1337" />
     <img src="https://readme-typing-svg.herokuapp.com?font=&size=15&pause=1000&color=F7F6F6&center=true&random=false&width=435&lines=disc%3Amoosy420" />
+    <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=DAA520&logo=xampp&logoColor=FFFFFF&label=" alt = "xampp" />
    </h1>
 <div align="center">
   <h2> My Contributions </h2> 
