@@ -27,8 +27,8 @@
 <hr/>
 <div align="center">
   <h2> My Social </h2>
-    <br>
-   <img src="https://readme-typing-svg.herokuapp.com?font=&size=15&pause=1000&color=F7F6F6&center=true&random=false&width=435&lines=IG%3A13.fp.12" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=&size=15&pause=1000&color=F7F6F6&center=true&random=false&width=435&lines=IG%3A13.fp.12" />
+   </h1>
 <div align="center">
   <h2> My Contributions </h2> 
   <br>
