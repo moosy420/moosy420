@@ -1,4 +1,4 @@
-<h1 align="center">
++<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&center=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;Im+moosy!;" />
 </h1>
 
@@ -29,6 +29,7 @@
   <h2> My Social </h2>
     <img src="https://readme-typing-svg.herokuapp.com?font=&size=15&pause=1000&color=F7F6F6&center=true&random=false&width=435&lines=IG%3A13.fp.12" />
     <img src="https://readme-typing-svg.herokuapp.com?font=&size=15&pause=1000&color=F7F6F6&center=true&random=false&width=435&lines=disc%3Amoosy420" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=&size=15&pause=1000&color=F7F6F6&center=true&vCenter=true&random=false&width=435&lines=FB%3ASilva1337" />
    </h1>
 <div align="center">
   <h2> My Contributions </h2> 
