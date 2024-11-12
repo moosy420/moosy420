@@ -10,7 +10,7 @@
  
 🔭 I'm currently working on pawns and VSC
 
-🌱 I'm currently learning MySQL & Python
+🌱 I also work in python in my spare time
 <br/>
 <hr/>
 <div align="center">
