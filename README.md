@@ -8,9 +8,8 @@
 
 <div align="center">
  
-🔭 I'm currently working on pawns and VSC
+🔭 I started my work in pawn and after 4 years I started something new like python html css
 
-🌱 I also work in python in my spare time
 <br/>
 <hr/>
 <div align="center">
